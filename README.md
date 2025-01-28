@@ -20,7 +20,7 @@ A dashboard foi criada utilizando dados do Excel, com gráficos interativos e fi
 
 Aqui está uma captura da dashboard:
 
-![Dashboard do Empreendimento](Imagem_Dashbord.png)
+![Dashboard do Empreendimento](Imagem_Dashboard.png)
 
 2. **Abrir no Excel**:
    Abra o arquivo no Microsoft Excel ou em outro programa de planilha compatível (como o Google Sheets, embora algumas funcionalidades interativas possam não funcionar adequadamente lá).
