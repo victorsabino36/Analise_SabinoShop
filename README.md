@@ -18,6 +18,10 @@ A dashboard foi criada utilizando dados do Excel, com gráficos interativos e fi
    
    [Excel Online](https://onedrive.live.com/personal/bc9cb59388db11f6/_layouts/15/Doc.aspx?sourcedoc=%7Bd093c666-cde2-4cd0-86e9-5027ea4b8627%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9iYzljYjU5Mzg4ZGIxMWY2L0VXYkdrOURpemRCTWh1bFFKLXBMaGljQkhuakxoRmNBc1dqYV95eFVMa2xOc1E_ZT1pMmJhNzU&slrid=22f37ba1-2015-7000-c0c9-bf695a2153d2&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9iYzljYjU5Mzg4ZGIxMWY2L0VXYkdrOURpemRCTWh1bFFKLXBMaGljQkhuakxoRmNBc1dqYV95eFVMa2xOc1E_cnRpbWU9WmZSc201d18zVWc&CID=5a4a970b-51f9-4bef-b9ae-1bb74a8c317c&_SRM=0:G:48)
 
+Aqui está uma captura da dashboard:
+
+![Dashboard do Empreendimento](Imagem_Dashbord.png)
+
 2. **Abrir no Excel**:
    Abra o arquivo no Microsoft Excel ou em outro programa de planilha compatível (como o Google Sheets, embora algumas funcionalidades interativas possam não funcionar adequadamente lá).
 
